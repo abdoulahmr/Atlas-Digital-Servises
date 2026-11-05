@@ -1,0 +1,9 @@
+{
+  "name": "atlas-digital-services",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Atlas Digital Services marketing site (static, EN/FR/AR)",
+  "scripts": {
+    "dev": "npx serve public"
+  }
+}
