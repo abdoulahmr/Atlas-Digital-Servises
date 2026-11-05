@@ -5,5 +5,8 @@
   "description": "Atlas Digital Services marketing site (static, EN/FR/AR)",
   "scripts": {
     "dev": "npx serve public"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
   }
 }
